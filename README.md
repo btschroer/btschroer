@@ -1,4 +1,4 @@
-👋 Hi, I’m @btschroer, a Senior Full Stack Machine Learning Engineer at [Ultramarin](ultramarin.ai).
+👋 Hi, I’m @btschroer, a Staff Machine Learning Engineer at [Ultramarin](ultramarin.ai).
 
 I'm interested in the application of Machine Learning methods for the development of quantitative investment strategies. 
 
